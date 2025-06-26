@@ -1,0 +1,1 @@
+This repository contains work completed as part of a Machine Learning project offered by the Electrical Engineering Association (EEA), IIT Kanpur. The project involved exploring both foundational topics in machine learning, deep learning, and large language models through theoretical study and hands-on implementation.
